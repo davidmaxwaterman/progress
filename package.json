@@ -21,7 +21,7 @@
   "dependencies": {
     "node-terminal": "*",
     "carrier": "*"
-  }
+  },
   "bin": {
     "progress": "bin/progress"
   },
