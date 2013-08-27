@@ -1,0 +1,29 @@
+{
+  "name": "progress",
+  "version": "0.0.1",
+  "description": "Progress filter.",
+  "author": "Max Waterman",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidmaxwaterman/progress.git"
+  },
+  "main": "bin/progress",
+  "homepage": "http://github.com/davidmaxwaterman/progress",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "node-terminal": "*",
+    "carrier": "*"
+  }
+  "bin": {
+    "progress": "bin/progress"
+  },
+  "preferGlobal": true
+}

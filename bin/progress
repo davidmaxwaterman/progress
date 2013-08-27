@@ -1,0 +1,27 @@
+#!/usr/bin/env node
+var terminal = require('node-terminal');
+var carrier = require('carrier');
+
+var lines = {};
+var top = 0;
+var keyFieldNo = process.argv[process.argv.length-1];
+
+process.stdin.resume();
+carrier.carry(process.stdin).on('line', function(line) {
+    var text = line+"";
+    var key = text.split(" ")[keyFieldNo];
+    var moveUp = 0;
+
+    if (lines[ key ] != undefined) {
+      // already have this line
+      moveUp = top-lines[ key ];
+      terminal.up(moveUp).clearLine().write(moveUp+":"+line).nl();
+      terminal.down(moveUp-1);
+    }
+    else {
+      // don't have this line yet
+      lines[ key ] = top;
+      top += 1;
+      terminal.write(line).nl();
+    }
+});
