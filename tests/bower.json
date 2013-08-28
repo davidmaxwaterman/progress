@@ -1,0 +1,17 @@
+{
+  "name": "name",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "~1.1.1",
+    "requirejs": "~2.1.8",
+    "intel-appframework": "https://github.com/01org/appframework.git#2.0.0",
+    "requirejs-text": "~2.0.9",
+    "Sprite3D.js": "https://github.com/boblemarin/Sprite3D.js.git",
+    "threejs": "latest",
+    "font-awesome": "~3.2.1",
+    "q": "~0.9.6",
+    "smokesignals.js": "https://bitbucket.org/bentomas/smokesignals.js.git",
+    "box2dweb": "latest"
+  }
+}
+

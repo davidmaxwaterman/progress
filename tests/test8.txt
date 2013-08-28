@@ -1,0 +1,1106 @@
+bower intel-appframework#2.0.0       not-cached https://github.com/01org/appframework.git#2.0.0
+bower intel-appframework#2.0.0          resolve https://github.com/01org/appframework.git#2.0.0
+bower Sprite3D.js#*                  not-cached https://github.com/boblemarin/Sprite3D.js.git#*
+bower Sprite3D.js#*                     resolve https://github.com/boblemarin/Sprite3D.js.git#*
+bower smokesignals.js#*              not-cached https://bitbucket.org/bentomas/smokesignals.js.git#*
+bower smokesignals.js#*                 resolve https://bitbucket.org/bentomas/smokesignals.js.git#*
+bower lodash#~1.1.1                  not-cached git://github.com/bestiejs/lodash.git#~1.1.1
+bower lodash#~1.1.1                     resolve git://github.com/bestiejs/lodash.git#~1.1.1
+bower requirejs#~2.1.8               not-cached git://github.com/jrburke/requirejs.git#~2.1.8
+bower requirejs#~2.1.8                  resolve git://github.com/jrburke/requirejs.git#~2.1.8
+bower threejs#*                      not-cached git://github.com/mrdoob/three.js.git#*
+bower threejs#*                         resolve git://github.com/mrdoob/three.js.git#*
+bower requirejs-text#~2.0.9          not-cached git://github.com/requirejs/text.git#~2.0.9
+bower requirejs-text#~2.0.9             resolve git://github.com/requirejs/text.git#~2.0.9
+bower q#~0.9.6                       not-cached git://github.com/kriskowal/q.git#~0.9.6
+bower q#~0.9.6                          resolve git://github.com/kriskowal/q.git#~0.9.6
+bower box2dweb#*                     not-cached git://github.com/gridsane/box2dweb.git#*
+bower box2dweb#*                        resolve git://github.com/gridsane/box2dweb.git#*
+bower font-awesome#~3.2.1            not-cached git://github.com/FortAwesome/Font-Awesome.git#~3.2.1
+bower font-awesome#~3.2.1               resolve git://github.com/FortAwesome/Font-Awesome.git#~3.2.1
+bower Sprite3D.js#*                    checkout master
+bower requirejs-text#~2.0.9            download https://github.com/requirejs/text/archive/2.0.10.tar.gz
+bower box2dweb#*                       checkout master
+bower q#~0.9.6                         download https://github.com/kriskowal/q/archive/v0.9.6.tar.gz
+bower font-awesome#~3.2.1              download https://github.com/FortAwesome/Font-Awesome/archive/v3.2.1.tar.gz
+bower threejs#*                        checkout master
+bower box2dweb#*                       resolved git://github.com/gridsane/box2dweb.git#8b6405ef58
+bower requirejs-text#~2.0.9             extract archive.tar.gz
+bower requirejs-text#~2.0.9            resolved git://github.com/requirejs/text.git#2.0.10
+bower smokesignals.js#*                checkout master
+bower intel-appframework#2.0.0         checkout 2.0.0
+bower Sprite3D.js#*                    progress remote: Compressing objects:  16% (11/68)   [K
+bower lodash#~1.1.1                    download https://github.com/bestiejs/lodash/archive/v1.1.1.tar.gz
+bower requirejs#~2.1.8                 download https://github.com/jrburke/requirejs/archive/2.1.8.tar.gz
+bower Sprite3D.js#*                    progress remote: Compressing objects:  17% (12/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  19% (13/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  20% (14/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  22% (15/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  23% (16/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  25% (17/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  26% (18/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  27% (19/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  29% (20/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  30% (21/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  32% (22/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  33% (23/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  35% (24/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  36% (25/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  38% (26/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  39% (27/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  41% (28/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  42% (29/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  44% (30/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  45% (31/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  47% (32/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  48% (33/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  50% (34/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  51% (35/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  52% (36/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  54% (37/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  55% (38/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  57% (39/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  58% (40/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  60% (41/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  61% (42/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  63% (43/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  64% (44/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  66% (45/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  67% (46/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  69% (47/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  70% (48/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  72% (49/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  73% (50/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  75% (51/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  76% (52/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  77% (53/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  79% (54/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  80% (55/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  82% (56/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  83% (57/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  85% (58/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  86% (59/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  88% (60/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  89% (61/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  91% (62/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  92% (63/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  94% (64/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  95% (65/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  97% (66/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects:  98% (67/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects: 100% (68/68)   [K
+bower Sprite3D.js#*                    progress remote: Compressing objects: 100% (68/68), done.[K
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 12.00 KiB
+bower q#~0.9.6                          extract archive.tar.gz
+bower q#~0.9.6                         resolved git://github.com/kriskowal/q.git#0.9.6
+bower font-awesome#~3.2.1              progress received 0.2MB of 0.9MB downloaded, 21%
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 36.00 KiB | 3 KiB/s
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   0% (1/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   1% (2/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   2% (4/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   3% (6/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   4% (8/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   5% (10/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   6% (12/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   7% (13/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   8% (15/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:   9% (17/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:  10% (19/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:  11% (21/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:  12% (23/184)   [K
+bower intel-appframework#2.0.0         progress remote: Compressing objects:  13% (24/184)   [K
+bower font-awesome#~3.2.1              progress received 0.2MB of 0.9MB downloaded, 27%
+bower intel-appframework#2.0.0         progress Receiving objects:   9% (19/202)
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 60.00 KiB | 4 KiB/s
+bower font-awesome#~3.2.1              progress received 0.3MB of 0.9MB downloaded, 28%
+bower smokesignals.js#*                progress remote: Compressing objects:  11% (1/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  22% (2/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  33% (3/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  44% (4/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  55% (5/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  66% (6/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  77% (7/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects:  88% (8/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects: 100% (9/9)   [K
+bower smokesignals.js#*                progress remote: Compressing objects: 100% (9/9), done.[K
+bower smokesignals.js#*                resolved https://bitbucket.org/bentomas/smokesignals.js.git#c0bad9846e
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 68.00 KiB | 4 KiB/s
+bower font-awesome#~3.2.1              progress received 0.3MB of 0.9MB downloaded, 30%
+bower requirejs#~2.1.8                 progress received 0.1MB of 2.1MB downloaded, 5%
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 76.00 KiB | 4 KiB/s
+bower font-awesome#~3.2.1              progress received 0.3MB of 0.9MB downloaded, 37%
+bower intel-appframework#2.0.0         progress Receiving objects:   9% (20/202), 20.00 KiB | 2 KiB/s
+bower font-awesome#~3.2.1              progress received 0.4MB of 0.9MB downloaded, 41%
+bower intel-appframework#2.0.0         progress Receiving objects:  10% (21/202), 20.00 KiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 100.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  11% (23/202), 36.00 KiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 116.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.4MB of 0.9MB downloaded, 44%
+bower intel-appframework#2.0.0         progress Receiving objects:  12% (25/202), 52.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  13% (27/202), 52.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 124.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  14% (29/202), 68.00 KiB | 6 KiB/s
+bower requirejs#~2.1.8                 progress received 0.1MB of 2.1MB downloaded, 6%
+bower font-awesome#~3.2.1              progress received 0.4MB of 0.9MB downloaded, 46%
+bower intel-appframework#2.0.0         progress Receiving objects:  19% (39/202), 76.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 132.00 KiB | 6 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  19% (39/202), 92.00 KiB | 6 KiB/s
+bower requirejs#~2.1.8                 progress received 0.2MB of 2.1MB downloaded, 8%
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 140.00 KiB | 7 KiB/s
+bower font-awesome#~3.2.1              progress received 0.4MB of 0.9MB downloaded, 49%
+bower intel-appframework#2.0.0         progress Receiving objects:  20% (41/202), 92.00 KiB | 6 KiB/s
+bower requirejs#~2.1.8                 progress received 0.2MB of 2.1MB downloaded, 8%
+bower intel-appframework#2.0.0         progress Receiving objects:  21% (43/202), 108.00 KiB | 7 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  23% (47/202), 124.00 KiB | 7 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  24% (49/202), 124.00 KiB | 7 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  25% (51/202), 124.00 KiB | 7 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (9/1340), 148.00 KiB | 6 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  36% (73/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  37% (75/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  38% (77/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  39% (79/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  40% (81/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  41% (83/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  42% (85/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  43% (87/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  44% (89/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  45% (91/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  46% (93/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  47% (95/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  48% (97/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  49% (99/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  50% (101/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  51% (104/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  52% (106/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  53% (108/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  54% (110/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  55% (112/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  56% (114/202), 140.00 KiB | 8 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  57% (116/202), 140.00 KiB | 8 KiB/s
+bower requirejs#~2.1.8                 progress received 0.2MB of 2.1MB downloaded, 10%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 164.00 KiB | 6 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  67% (136/202), 156.00 KiB | 13 KiB/s
+bower font-awesome#~3.2.1              progress received 0.5MB of 0.9MB downloaded, 53%
+bower intel-appframework#2.0.0         progress Receiving objects:  67% (136/202), 172.00 KiB | 12 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 172.00 KiB | 6 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  80% (162/202), 188.00 KiB | 12 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  80% (163/202), 204.00 KiB | 12 KiB/s
+bower font-awesome#~3.2.1              progress received 0.5MB of 0.9MB downloaded, 56%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 188.00 KiB | 6 KiB/s
+bower requirejs#~2.1.8                 progress received 0.2MB of 2.1MB downloaded, 11%
+bower intel-appframework#2.0.0         progress Receiving objects:  81% (164/202), 220.00 KiB | 13 KiB/s
+bower requirejs#~2.1.8                 progress received 0.3MB of 2.1MB downloaded, 12%
+bower intel-appframework#2.0.0         progress Receiving objects:  81% (164/202), 236.00 KiB | 14 KiB/s
+bower font-awesome#~3.2.1              progress received 0.5MB of 0.9MB downloaded, 60%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 196.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  82% (166/202), 252.00 KiB | 14 KiB/s
+bower requirejs#~2.1.8                 progress received 0.3MB of 2.1MB downloaded, 13%
+bower font-awesome#~3.2.1              progress received 0.6MB of 0.9MB downloaded, 62%
+bower intel-appframework#2.0.0         progress Receiving objects:  84% (170/202), 268.00 KiB | 16 KiB/s
+bower font-awesome#~3.2.1              progress received 0.6MB of 0.9MB downloaded, 63%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 204.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  84% (171/202), 284.00 KiB | 14 KiB/s
+bower requirejs#~2.1.8                 progress received 0.3MB of 2.1MB downloaded, 14%
+bower intel-appframework#2.0.0         progress Receiving objects:  85% (172/202), 284.00 KiB | 14 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 220.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  85% (173/202), 300.00 KiB | 11 KiB/s
+bower requirejs#~2.1.8                 progress received 0.3MB of 2.1MB downloaded, 15%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 228.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  90% (182/202), 332.00 KiB | 14 KiB/s
+bower requirejs#~2.1.8                 progress received 0.4MB of 2.1MB downloaded, 17%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 236.00 KiB | 5 KiB/s
+bower intel-appframework#2.0.0         progress Receiving objects:  95% (192/202), 348.00 KiB | 14 KiB/s
+bower font-awesome#~3.2.1              progress received 0.6MB of 0.9MB downloaded, 65%
+bower intel-appframework#2.0.0         progress Receiving objects:  95% (193/202), 364.00 KiB | 14 KiB/s
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 244.00 KiB | 5 KiB/s
+bower requirejs#~2.1.8                 progress received 0.4MB of 2.1MB downloaded, 19%
+bower intel-appframework#2.0.0         resolved https://github.com/01org/appframework.git#2.0.0
+bower requirejs#~2.1.8                 progress received 0.4MB of 2.1MB downloaded, 20%
+bower font-awesome#~3.2.1              progress received 0.6MB of 0.9MB downloaded, 69%
+bower threejs#*                        progress Receiving objects:   0% (10/1340), 252.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   1% (14/1340), 252.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   1% (16/1340), 260.00 KiB | 5 KiB/s
+bower requirejs#~2.1.8                 progress received 0.4MB of 2.1MB downloaded, 20%
+bower font-awesome#~3.2.1              progress received 0.6MB of 0.9MB downloaded, 72%
+bower requirejs#~2.1.8                 progress received 0.4MB of 2.1MB downloaded, 21%
+bower threejs#*                        progress Receiving objects:   1% (24/1340), 268.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   2% (27/1340), 268.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.7MB of 0.9MB downloaded, 76%
+bower requirejs#~2.1.8                 progress received 0.5MB of 2.1MB downloaded, 23%
+bower threejs#*                        progress Receiving objects:   4% (54/1340), 276.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.7MB of 0.9MB downloaded, 77%
+bower requirejs#~2.1.8                 progress received 0.5MB of 2.1MB downloaded, 24%
+bower threejs#*                        progress Receiving objects:   4% (61/1340), 284.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.7MB of 0.9MB downloaded, 81%
+bower threejs#*                        progress Receiving objects:   5% (67/1340), 284.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:   6% (81/1340), 284.00 KiB | 5 KiB/s
+bower requirejs#~2.1.8                 progress received 0.5MB of 2.1MB downloaded, 25%
+bower threejs#*                        progress Receiving objects:   8% (108/1340), 292.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.7MB of 0.9MB downloaded, 83%
+bower threejs#*                        progress Receiving objects:   9% (121/1340), 300.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  10% (134/1340), 308.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.8MB of 0.9MB downloaded, 86%
+bower requirejs#~2.1.8                 progress received 0.6MB of 2.1MB downloaded, 27%
+bower requirejs#~2.1.8                 progress received 0.6MB of 2.1MB downloaded, 29%
+bower threejs#*                        progress Receiving objects:  10% (136/1340), 316.00 KiB | 4 KiB/s
+bower font-awesome#~3.2.1              progress received 0.8MB of 0.9MB downloaded, 90%
+bower threejs#*                        progress Receiving objects:  12% (161/1340), 324.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.8MB of 0.9MB downloaded, 91%
+bower requirejs#~2.1.8                 progress received 0.6MB of 2.1MB downloaded, 30%
+bower requirejs#~2.1.8                  extract archive.tar.gz
+bower threejs#*                        progress Receiving objects:  12% (166/1340), 332.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.8MB of 0.9MB downloaded, 95%
+bower threejs#*                        progress Receiving objects:  12% (168/1340), 340.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1              progress received 0.9MB of 0.9MB downloaded, 98%
+bower threejs#*                        progress Receiving objects:  12% (168/1340), 348.00 KiB | 5 KiB/s
+bower font-awesome#~3.2.1               extract archive.tar.gz
+bower font-awesome#~3.2.1              resolved git://github.com/FortAwesome/Font-Awesome.git#3.2.1
+bower threejs#*                        progress Receiving objects:  12% (168/1340), 356.00 KiB | 5 KiB/s
+bower lodash#~1.1.1                     extract archive.tar.gz
+bower threejs#*                        progress Receiving objects:  12% (170/1340), 364.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  13% (178/1340), 372.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  14% (188/1340), 380.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (201/1340), 388.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (203/1340), 396.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (208/1340), 404.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (208/1340), 412.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (209/1340), 420.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  15% (213/1340), 428.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  16% (215/1340), 428.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  16% (216/1340), 436.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  17% (228/1340), 444.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  17% (228/1340), 452.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  17% (239/1340), 468.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  18% (242/1340), 468.00 KiB | 5 KiB/s
+bower Sprite3D.js#*                    resolved https://github.com/boblemarin/Sprite3D.js.git#d659ffa8e7
+bower threejs#*                        progress Receiving objects:  18% (245/1340), 476.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  19% (255/1340), 476.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  19% (259/1340), 492.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  19% (263/1340), 500.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  19% (266/1340), 508.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (268/1340), 508.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (269/1340), 516.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 524.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 532.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 540.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 548.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 556.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 572.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 580.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 588.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 596.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 604.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 612.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (275/1340), 620.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (276/1340), 628.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (276/1340), 636.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (276/1340), 644.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (276/1340), 652.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (276/1340), 660.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 676.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 684.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 692.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 700.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 708.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 716.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 732.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 740.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 748.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 756.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 764.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (277/1340), 772.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 780.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 788.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 796.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 804.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 812.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 828.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 836.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 844.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 852.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 860.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 868.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 876.00 KiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 892.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 900.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 908.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (278/1340), 924.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 932.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 940.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 948.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 956.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 964.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 972.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 980.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 988.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 996.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1004.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1012.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1020.00 KiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1.01 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1.02 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (279/1340), 1.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.05 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.06 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.07 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.08 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.09 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.11 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.11 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.12 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.13 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.14 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.16 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.17 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.19 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.20 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.21 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.22 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (280/1340), 1.23 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.27 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.28 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.31 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.36 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.38 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.41 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  20% (281/1340), 1.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (282/1340), 1.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (282/1340), 1.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (282/1340), 1.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (283/1340), 1.44 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (283/1340), 1.45 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (283/1340), 1.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (284/1340), 1.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (284/1340), 1.47 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (284/1340), 1.48 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (284/1340), 1.49 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (284/1340), 1.50 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (285/1340), 1.51 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (285/1340), 1.52 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (285/1340), 1.53 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (285/1340), 1.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (288/1340), 1.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  21% (294/1340), 1.55 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (295/1340), 1.55 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (298/1340), 1.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (300/1340), 1.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (303/1340), 1.58 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (306/1340), 1.59 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  22% (308/1340), 1.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  23% (309/1340), 1.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  23% (314/1340), 1.61 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  24% (322/1340), 1.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  24% (324/1340), 1.62 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  25% (335/1340), 1.62 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  25% (341/1340), 1.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  25% (343/1340), 1.64 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (349/1340), 1.64 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (350/1340), 1.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (350/1340), 1.67 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (351/1340), 1.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (355/1340), 1.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  26% (357/1340), 1.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  27% (362/1340), 1.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  27% (363/1340), 1.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  27% (370/1340), 1.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  28% (376/1340), 1.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  28% (377/1340), 1.71 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  29% (390/1340), 1.72 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  29% (392/1340), 1.73 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  29% (395/1340), 1.74 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  29% (398/1340), 1.75 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  30% (402/1340), 1.75 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  30% (405/1340), 1.77 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  30% (412/1340), 1.78 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  31% (416/1340), 1.78 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  33% (443/1340), 1.79 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  33% (443/1340), 1.80 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  33% (449/1340), 1.81 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (456/1340), 1.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (457/1340), 1.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (457/1340), 1.83 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (457/1340), 1.84 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (457/1340), 1.85 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (457/1340), 1.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (458/1340), 1.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (458/1340), 1.87 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (458/1340), 1.88 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.89 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.90 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.91 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.92 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.93 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (459/1340), 1.94 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.95 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.97 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.98 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 1.99 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.01 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.02 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.03 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.05 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.06 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.08 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.09 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.10 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.11 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.12 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.13 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.15 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.17 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.19 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.20 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.22 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.26 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.27 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.28 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.31 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.37 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.38 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.40 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.41 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.43 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.44 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.47 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.48 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.49 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.51 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.52 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.53 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.55 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.56 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.58 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (461/1340), 2.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.62 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.63 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.65 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.67 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (462/1340), 2.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.71 MiB | 6 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.72 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.73 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.74 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (463/1340), 2.76 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (465/1340), 2.77 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.78 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.80 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.81 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.83 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.84 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (466/1340), 2.85 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (468/1340), 2.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (468/1340), 2.86 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  34% (468/1340), 2.88 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.88 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.89 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.90 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.91 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.92 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (469/1340), 2.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (470/1340), 2.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (470/1340), 2.94 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (470/1340), 2.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (471/1340), 2.97 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (471/1340), 2.99 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (471/1340), 3.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (472/1340), 3.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (472/1340), 3.01 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (472/1340), 3.02 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (472/1340), 3.03 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (472/1340), 3.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (473/1340), 3.04 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (473/1340), 3.06 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (473/1340), 3.07 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (473/1340), 3.07 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (474/1340), 3.09 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (474/1340), 3.10 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (474/1340), 3.11 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (474/1340), 3.11 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (475/1340), 3.12 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (475/1340), 3.13 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (475/1340), 3.14 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (476/1340), 3.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (476/1340), 3.16 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (476/1340), 3.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (477/1340), 3.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (477/1340), 3.19 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (477/1340), 3.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (477/1340), 3.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (478/1340), 3.22 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (478/1340), 3.23 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (478/1340), 3.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (478/1340), 3.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (479/1340), 3.26 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (479/1340), 3.27 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (479/1340), 3.28 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (480/1340), 3.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (480/1340), 3.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (480/1340), 3.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (480/1340), 3.31 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (480/1340), 3.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (481/1340), 3.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (482/1340), 3.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  35% (482/1340), 3.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (483/1340), 3.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (483/1340), 3.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (483/1340), 3.36 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (483/1340), 3.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.37 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.38 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.40 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.41 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.44 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.46 MiB | 6 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.47 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.48 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.49 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.51 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.52 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.53 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.55 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.58 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.59 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.60 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.61 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.61 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.62 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.63 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.65 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (485/1340), 3.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (489/1340), 3.67 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (489/1340), 3.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (489/1340), 3.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (489/1340), 3.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (489/1340), 3.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (490/1340), 3.71 MiB | 6 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (490/1340), 3.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (490/1340), 3.72 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (491/1340), 3.74 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (491/1340), 3.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (491/1340), 3.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (491/1340), 3.76 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (492/1340), 3.77 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (492/1340), 3.78 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (492/1340), 3.79 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (492/1340), 3.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (493/1340), 3.80 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (493/1340), 3.81 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (493/1340), 3.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  36% (494/1340), 3.83 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (496/1340), 3.84 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (496/1340), 3.85 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (498/1340), 3.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (498/1340), 3.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (500/1340), 3.87 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (500/1340), 3.88 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (501/1340), 3.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (504/1340), 3.90 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.91 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.92 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.93 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.94 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.95 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.97 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.98 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 3.99 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.01 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.02 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.03 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.04 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.04 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.05 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.06 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.07 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.08 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.09 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.10 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.11 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.11 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.12 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.13 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.14 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.16 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (506/1340), 4.17 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.19 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.20 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.21 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.21 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.22 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.23 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.25 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (507/1340), 4.26 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.27 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.28 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.29 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.31 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (508/1340), 4.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.37 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.38 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  37% (509/1340), 4.40 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.40 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.41 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.44 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.45 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.47 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (510/1340), 4.48 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.50 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.51 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.53 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.54 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.55 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (511/1340), 4.56 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.57 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.58 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.59 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.61 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (512/1340), 4.62 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.64 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.64 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.65 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.67 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (513/1340), 4.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.72 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.73 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.74 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.76 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.77 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.78 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.79 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (514/1340), 4.80 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.80 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.82 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.82 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.83 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.84 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (515/1340), 4.85 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.86 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.86 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.87 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.88 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.90 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.91 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.92 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (516/1340), 4.93 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.94 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.95 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.96 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.96 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.97 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.98 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (517/1340), 4.99 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.01 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.02 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.03 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.05 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.06 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.07 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.08 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.09 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.10 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (518/1340), 5.11 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.12 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.13 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.15 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.16 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.17 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (519/1340), 5.19 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.20 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.22 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.23 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.26 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (520/1340), 5.27 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.28 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.30 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.32 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.35 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.36 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (521/1340), 5.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.37 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.38 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.39 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.39 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.40 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.41 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.42 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  38% (522/1340), 5.43 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.44 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.45 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.46 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.48 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (523/1340), 5.51 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.52 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.53 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.55 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.56 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.58 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.59 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (524/1340), 5.61 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.62 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.63 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.64 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.65 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.67 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.69 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (525/1340), 5.72 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.73 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.74 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.76 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (526/1340), 5.77 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.78 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.80 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.82 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.83 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.84 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.85 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (527/1340), 5.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.87 MiB | 6 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.88 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.90 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.91 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.92 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (528/1340), 5.94 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 5.95 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 5.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 5.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 5.97 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 5.98 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (529/1340), 6.00 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (530/1340), 6.00 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (530/1340), 6.01 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (530/1340), 6.02 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.03 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.04 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.04 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.05 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.06 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.07 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.07 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.08 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.09 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.10 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.11 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.11 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.13 MiB | 2 KiB/s
+bower threejs#*                        progress Receiving objects:  39% (533/1340), 6.14 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (536/1340), 6.14 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.14 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.15 MiB | 3 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.17 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.18 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.19 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.22 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.25 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.27 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.28 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.31 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.37 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.38 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.39 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.40 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (537/1340), 6.41 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (538/1340), 6.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (539/1340), 6.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (539/1340), 6.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (540/1340), 6.44 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (540/1340), 6.45 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.46 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.47 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.49 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.50 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.50 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.51 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.52 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.53 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (542/1340), 6.54 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.54 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.55 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.56 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.57 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.58 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.59 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.60 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.61 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.62 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.63 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.64 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.65 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.66 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.67 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.68 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.68 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.70 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.71 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.72 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.73 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.74 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.75 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.76 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.77 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.78 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.79 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.80 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.81 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.82 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.83 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.84 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.85 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.86 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.87 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.88 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.89 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.90 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.91 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.92 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.93 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.93 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.94 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.95 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.96 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.97 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (543/1340), 6.98 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 6.99 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.00 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.00 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.01 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.02 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.04 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.05 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.06 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.07 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.08 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.10 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.11 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.11 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.12 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.13 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.14 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.15 MiB | 6 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.16 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.17 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.18 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.19 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.20 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.21 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.22 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.23 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.24 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.25 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.26 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.27 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.29 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.30 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.31 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.32 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.33 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.34 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.35 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (544/1340), 7.36 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.37 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.38 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.39 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.40 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.41 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.42 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.43 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.44 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.45 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.46 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.47 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.48 MiB | 4 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.50 MiB | 5 KiB/s
+bower threejs#*                        progress Receiving objects:  40% (546/1340), 7.51 MiB | 5 KiB/s
