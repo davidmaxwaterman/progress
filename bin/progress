@@ -4,7 +4,7 @@ var carrier = require('carrier');
 
 var lines = {};
 var top = 0;
-var keyFieldNo = process.argv[process.argv.length-1];
+var keyFieldNo = process.argv[2] || 1;
 
 process.stdin.resume();
 carrier.carry(process.stdin).on('line', function(line) {
@@ -15,8 +15,7 @@ carrier.carry(process.stdin).on('line', function(line) {
     if (lines[ key ] != undefined) {
       // already have this line
       moveUp = top-lines[ key ];
-      terminal.up(moveUp).clearLine().write(moveUp+":"+line).nl();
-      terminal.down(moveUp-1);
+      terminal.up(moveUp).clearLine().write(line).nl();
     }
     else {
       // don't have this line yet
