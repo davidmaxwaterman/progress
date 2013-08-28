@@ -15,12 +15,19 @@ carrier.carry(process.stdin).on('line', function(line) {
     if (lines[ key ] != undefined) {
       // already have this line
       moveUp = top-lines[ key ];
-      terminal.up(moveUp).clearLine().write(line).nl();
+      terminal.up(moveUp);
+      terminal.clearLine();
+      terminal.write(line);
+      terminal.nl();
+      if (moveUp>1) {
+        terminal.down(moveUp-1);
+      }
     }
     else {
       // don't have this line yet
       lines[ key ] = top;
       top += 1;
-      terminal.write(line).nl();
+      terminal.write(line);
+      terminal.nl();
     }
 });
