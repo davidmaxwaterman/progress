@@ -5,12 +5,16 @@ var carrier = require('carrier');
 var lines = {};
 var top = 0;
 var keyFieldNo = process.argv[2] || 1;
+var nowrap = '[?7l';
+var wrap = '[?7h';
 
 process.stdin.resume();
 carrier.carry(process.stdin).on('line', function(line) {
     var text = line+"";
     var key = text.split(" ")[keyFieldNo];
     var moveUp = 0;
+
+    terminal.write(nowrap);
 
     if (lines[ key ] != undefined) {
       // already have this line
@@ -30,4 +34,6 @@ carrier.carry(process.stdin).on('line', function(line) {
       terminal.write(line);
       terminal.nl();
     }
+
+    terminal.write(wrap);
 });
