@@ -16,6 +16,9 @@ carrier.carry(process.stdin).on('line', function(line) {
 
     terminal.write(nowrap);
 
+    // remove control characters - notably clear screen
+    line = line.replace(/[\x00-\x1f]/g,'');
+
     if (lines[ key ] != undefined) {
       // already have this line
       moveUp = top-lines[ key ];
