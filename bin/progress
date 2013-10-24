@@ -2,7 +2,7 @@
 var terminal = require('node-terminal');
 var carrier = require('carrier');
 var argv = require('optimist')
-  .usage('Usage: $0 -f [field index]')
+  .usage('Usage: $0 -f [field index] -g [green text] -a [amber text] -r [red text]')
   .argv;
 
 var lines = {};
@@ -10,9 +10,18 @@ var top = 0;
 var keyFieldIndex = argv.f || 'a';
 var nowrap = '[?7l';
 var wrap = '[?7h';
+var green = (argv.g)?new RegExp(argv.g,""):undefined;
+var amber = (argv.a)?new RegExp(argv.a,""):undefined;
+var red = (argv.r)?new RegExp(argv.r,""):undefined;
+
+if (argv.g) {
+  green = (argv.g)?new RegExp(argv.g,""):undefined;
+}
 
 process.stdin.resume();
-carrier.carry(process.stdin).on('line', function(line) {
+terminal.write(nowrap);
+carrier.carry(process.stdin)
+  .on('line', function(line) {
     var text = line+"";
     var splitText = text.split(" ");
 
@@ -20,29 +29,58 @@ carrier.carry(process.stdin).on('line', function(line) {
       var firstField = splitText[0];
       if (firstField=="bower") {
         keyFieldIndex=1;
+
+        if (!green) {
+          green=new RegExp("(install)","");
+        }
+        if (!amber) {
+          amber=new RegExp("(extract|mismatch|validate)","");
+        }
+        if (!red) {
+          red=new RegExp("([\s]*cached|resolved|download)","");
+        }
+
       } else
       if (firstField=="npm") {
         keyFieldIndex=3;
+
+        if (!green) {
+          green=new RegExp("(304|200)","");
+        }
+        if (!amber) {
+          amber=new RegExp("()","");
+        }
+        if (!red) {
+          red=new RegExp("(GET)","");
+        }
+
       } else {
         keyFieldIndex=1;
       }
     }
 
-    var key = text.split(" ")[keyFieldIndex];
+    var key = splitText[keyFieldIndex];
     var moveUp = 0;
-
-    terminal.write(nowrap);
 
     // remove control characters - notably clear screen
     line = line.replace(/[\x00-\x1f]/g,'');
 
+    // add color - TODO should really only replace in keyField
+    line = line.replace(green,'%G$1%n');
+    line = line.replace(amber,'%Y$1%n');
+    line = line.replace(red,'%R$1%n');
+
+    // reset color, in case something has gone wrong
+    terminal.colorize("%n");
+
     if (lines[ key ] != undefined) {
       // already have this line
       moveUp = top-lines[ key ];
-      terminal.up(moveUp);
-      terminal.clearLine();
-      terminal.write(line);
-      terminal.nl();
+      terminal
+        .up(moveUp)
+        .clearLine()
+        .colorize(line)
+        .nl();
       if (moveUp>1) {
         terminal.down(moveUp-1);
       }
@@ -51,9 +89,14 @@ carrier.carry(process.stdin).on('line', function(line) {
       // don't have this line yet
       lines[ key ] = top;
       top += 1;
-      terminal.write(line);
-      terminal.nl();
+      terminal
+        .colorize(line)
+        .nl();
     }
 
+    // reset color, in case something has gone wrong
+    terminal.colorize("%n");
+  })
+  .on('end',function() {
     terminal.write(wrap);
-});
+  });
