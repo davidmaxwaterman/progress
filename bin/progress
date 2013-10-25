@@ -15,7 +15,7 @@ var amber = (argv.a)?new RegExp(argv.a,""):undefined;
 var red = (argv.r)?new RegExp(argv.r,""):undefined;
 
 if (argv.g) {
-  green = (argv.g)?new RegExp(argv.g,""):undefined;
+var green = (argv.g)?new RegExp(argv.g,""):undefined;
 }
 
 process.stdin.resume();
@@ -48,7 +48,7 @@ carrier.carry(process.stdin)
           green=new RegExp("(304|200)","");
         }
         if (!amber) {
-          amber=new RegExp("()","");
+          amber=new RegExp("^$","");
         }
         if (!red) {
           red=new RegExp("(GET)","");
@@ -70,7 +70,7 @@ carrier.carry(process.stdin)
     line = line.replace(amber,'%Y$1%n');
     line = line.replace(red,'%R$1%n');
 
-    // reset color, in case something has gone wrong
+    // reset color, in case something goes wrong
     terminal.colorize("%n");
 
     if (lines[ key ] != undefined) {
@@ -94,7 +94,7 @@ carrier.carry(process.stdin)
         .nl();
     }
 
-    // reset color, in case something has gone wrong
+    // reset color, in case something goes wrong
     terminal.colorize("%n");
   })
   .on('end',function() {
